@@ -1,3 +1,7 @@
+* {
+	cursor: url(https://cur.cursors-4u.net/nature/nat-10/nat981.cur), auto;
+} 
+
 body {
 	background-color: #862d2d;
 }
@@ -19,4 +23,4 @@ p {
 	margin: 20px;
 }
 
-* {cursor: url(https://cur.cursors-4u.net/nature/nat-10/nat981.cur), auto;} 
+
